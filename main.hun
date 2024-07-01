@@ -1,0 +1,6 @@
+$^ ver=1.0 rel=ALPHA
+
+#def name = Alice
+#def age = 30
+
+$print My name is ${name} and I am ${age}.
